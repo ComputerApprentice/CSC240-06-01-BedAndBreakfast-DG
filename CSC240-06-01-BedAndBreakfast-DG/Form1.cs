@@ -1,8 +1,8 @@
 namespace CSC240_06_01_BedAndBreakfast_DG
 {
-    public partial class Form1 : Form
+    public partial class UxBaileysForm : Form
     {
-        public Form1()
+        public UxBaileysForm()
         {
             InitializeComponent();
         }
